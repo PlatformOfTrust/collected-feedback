@@ -2,7 +2,7 @@
 name: 'Issue: I''m in pain! Here''s the symptoms '
 about: Tell us what is the pain? What is causing issues for you?
 title: Developer Wish
-labels: ''
+labels: Developer Portal
 assignees: ''
 
 ---
