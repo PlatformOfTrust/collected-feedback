@@ -2,7 +2,7 @@
 name: Suggestions for guides
 about: suggestion improvement ideas for existing guides or request for new guides
 title: "[Guide Name]: Improvement Requests"
-labels: Guides
+labels: Guides, Developer Portal
 assignees: ''
 
 ---
