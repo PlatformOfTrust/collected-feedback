@@ -1,8 +1,8 @@
 ---
 name: Suggestions for guides
-about: suggestion improvement ideas for existing guides or request for new guides
+about: requests for new guides or improvements to existing ones.
 title: "[Guide Name]: Improvement Requests"
-labels: Guides, Developer Portal
+labels: Developer Portal, Guides
 assignees: ''
 
 ---
