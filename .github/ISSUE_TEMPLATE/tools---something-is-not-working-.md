@@ -2,7 +2,7 @@
 name: Tools - Something is not working!
 about: Report an issue on Tools to help us improve
 title: 'Tools: Issue found'
-labels: ''
+labels: Developer Portal, Tools
 assignees: ''
 
 ---
