@@ -2,7 +2,7 @@
 name: API Wishlists
 about: Feedback about API profiles and doc.oftrust.net
 title: Wish for the API
-labels: APIs
+labels: Developer Portal, APIs
 assignees: ''
 
 ---
